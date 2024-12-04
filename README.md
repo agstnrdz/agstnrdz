@@ -1,6 +1,6 @@
 - 👋🏼 Hi, I’m Agustín
 - 🌎 I work as a Geographical Information Systems Analyst
-- 💻 I’m currently learning Phyton, Jupyter Notebook, GeoPandas, PostGreSQL, PostGIS
+- 💻 I’m currently learning Phyton, Jupyter Notebook, GeoPandas, H3, PostGreSQL, PostGIS, FME Desktop
 - ⌨️ I’m looking to collaborate on GIS related programming
 - 🛰️ I'm also a teaching assistant of the subject Remote Sensing II
 - ♟️ You can challenge me at chess.com
