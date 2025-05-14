@@ -1,9 +1,9 @@
 - 👋🏼 Hi, I’m Agustín
 - 🌎 I work as a Geographical Information Systems Analyst
-- 💻 I’m currently learning Phyton, Jupyter Notebook, GeoPandas, H3 Indexing, PostGreSQL, PostGIS, processing models and everything related to geospatial data
+- 💻 I’m currently learning Phyton, Geopandas, R, Jupyter Notebook, H3 Indexing, PostGreSQL, PostGIS, processing models and everything related to geospatial data
 - ⌨️ I’m looking to collaborate on GIS related programming
-- 🛰️ I'm also a teaching assistant of the subject Remote Sensing II
-- ♟️ You can challenge me at chess.com
+- 🛰️ I'm also a teaching assistant of the subject Remote Sensing II at Universidad Nacional de la Patagonia San Juan Bosco
+- ♟️ Probably thinking about GIS or my next chess move
 
 <!---
 agstnrdz/agstnrdz is a 🌱 special 🌱 repository because its `README.md` (this file) appears on your GitHub profile.
