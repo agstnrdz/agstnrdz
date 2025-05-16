@@ -5,6 +5,9 @@
 - 🛰️ I'm also a teaching assistant of the subject Remote Sensing II at Universidad Nacional de la Patagonia San Juan Bosco
 - ♟️ Probably thinking about GIS or my next chess move
 
+- Portfolio <a href="https://agstnrdz.github.io" target="_blank">aquí.</a>
+
+
 <!---
 agstnrdz/agstnrdz is a 🌱 special 🌱 repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
