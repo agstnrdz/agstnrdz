@@ -5,7 +5,7 @@
 - 🛰️ I'm also a teaching assistant of the subject Remote Sensing II at National University of Patagonia San Juan Bosco
 - ♟️ Probably thinking about GIS or my next chess move
 
-- 💼 Portfolio <a href="https://agstnrdz.github.io" target="_blank">here.</a>
+- 💼 Portfolio <a href="https://agstnrdz.github.io" target="_blank">here</a>
 
 
 <!---
