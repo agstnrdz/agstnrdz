@@ -1,4 +1,4 @@
-### Agustín
+### Agustín Alejandro Rodríguez
 
 <a href="https://agstnrdz.github.io" target="_blank">Portfolio</a>
 
